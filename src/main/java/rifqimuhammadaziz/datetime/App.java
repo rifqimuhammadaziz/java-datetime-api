@@ -1,4 +1,4 @@
-package rifqimuhammadaziz.datetime-api;
+package rifqimuhammadaziz.datetime;
 
 /**
  * Hello world!
